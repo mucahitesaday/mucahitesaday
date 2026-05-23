@@ -1,8 +1,6 @@
 ## 💫 About Me:
 Software Developer with experience in enterprise systems, AI, and backend technologies.<br><br>Worked on IBM Mainframe systems using HLASM, BAL, JCL, z/OS, and Turkish Airlines reservation infrastructures.<br><br>Currently focused on Artificial Intelligence, Machine Learning, Deep Learning, and LLM technologies.  <br>Building projects with Python, TensorFlow, Hugging Face, and modern AI tools while combining analytical thinking with enterprise software experience.<br><br>Background in Statistics with strong interest in AI systems, model development, automation, and scalable architectures.
 
-https://medium.com/@esatay78/ac-kapa-duzelir-docker-ve-kubernetes-anlamak-879a14acbd30
-
 [Medium Article](https://medium.com/@esatay78/ac-kapa-duzelir-docker-ve-kubernetes-anlamak-879a14acbd30)
 
 ## 🌐 Socials:
