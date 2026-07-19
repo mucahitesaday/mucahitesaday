@@ -125,8 +125,8 @@ Dengesiz finansal işlem verisinde dolandırıcılık analizi ve çoklu model ka
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mucahitesaday&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&icon_color=F59E0B" alt="Mücahit's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitesaday&layout=compact&hide_border=true&langs_count=8&exclude_repo=python_ai_examples&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages excluding notebook course archive" />
+<img height="175" src="https://github-readme-stats.shion.dev/api?username=mucahitesaday&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&icon_color=F59E0B" alt="Mücahit's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mucahitesaday&layout=compact&hide_border=true&langs_count=8&exclude_repo=python_ai_examples&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages excluding notebook course archive" />
 
 <br/>
 
