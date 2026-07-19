@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:7F00FF,100:E100FF&height=220&section=header&text=Mücahit%20Esad%20Ay&fontSize=47&fontColor=ffffff&fontAlignY=36&desc=AI%20Developer%20%7C%20Statistics%20%7C%20Enterprise%20Systems&descAlignY=58&animation=fadeIn" alt="Mücahit Esad Ay profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:071A2E,75:0B3A66,100:00A8E8&height=220&section=header&text=Mücahit%20Esad%20Ay&fontSize=47&fontColor=ffffff&fontAlignY=36&desc=AI%20Developer%20%7C%20Statistics%20%7C%20Enterprise%20Systems&descAlignY=58&animation=fadeIn" alt="Mücahit Esad Ay profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8BE9FD&center=true&vCenter=true&width=850&lines=İstatistikten+yapay+zekâ+sistemlerine;Python+ile+çalışan+AI+projeleri+geliştiriyorum;From+enterprise+systems+to+modern+AI;Building+ML%2C+RAG+and+MLOps+workflows" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Statistics+meets+Artificial+Intelligence;Building+Python%2C+ML+and+RAG+systems;From+enterprise+software+to+modern+AI;Turning+data+into+working+products" alt="Typing introduction" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mucahitesaday&label=Profil%20Görüntülenmesi&color=7F00FF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mucahitesaday&label=Profil%20Görüntülenmesi&color=0EA5E9&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -125,16 +125,16 @@ Dengesiz finansal işlem verisinde dolandırıcılık analizi ve çoklu model ka
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mucahitesaday&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Mücahit's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitesaday&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=python_ai_examples" alt="Most used languages excluding notebook course archive" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mucahitesaday&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&icon_color=F59E0B" alt="Mücahit's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitesaday&layout=compact&hide_border=true&langs_count=8&exclude_repo=python_ai_examples&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages excluding notebook course archive" />
 
 <br/>
 
-<img width="62%" src="https://streak-stats.demolab.com?user=mucahitesaday&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="62%" src="https://streak-stats.demolab.com?user=mucahitesaday&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahitesaday&bg_color=0d1117&color=8be9fd&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mucahitesaday&bg_color=020617&color=7DD3FC&line=38BDF8&point=F59E0B&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
@@ -156,6 +156,6 @@ Dengesiz finansal işlem verisinde dolandırıcılık analizi ve çoklu model ka
 
 **Open to AI, Machine Learning, Data Science and collaborative software projects.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:7F00FF,100:E100FF&height=120&section=footer" alt="Profile footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:071A2E,75:0B3A66,100:00A8E8&height=120&section=footer" alt="Profile footer" />
 
 </div>
